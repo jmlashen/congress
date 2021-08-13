@@ -1,0 +1,79 @@
+html {
+    background-color: whitesmoke;
+}
+
+
+.mainImage {
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  justify-content: center;
+  
+   
+}
+h1 {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+   
+
+}
+
+h2 {
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+
+.comm {
+    background-color: thistle;
+   margin: 20%;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   width: 300px;
+  border: 15px solid rgb(135, 175, 194);
+  padding: 50px;
+  margin: 20px;
+    
+}
+
+.legi {
+
+    background-color: thistle;
+   margin: 20%;
+   display:inline-block;
+   justify-content: center;
+   width: 300px;
+  border: 15px solid rgb(135, 175, 194);
+  padding: 50px;
+  margin: 20px;
+
+   
+   
+}
+
+.commAs {
+    margin: auto;
+    padding: 5%;
+    display: flex;
+    
+    
+    
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 100%;
+}
